@@ -14,7 +14,7 @@
 
 
 
-# Usefull Tools
+# Useful Tools
 * Cheat Engine 6.5 (wine): http://www.socittrasoren.com/_7ygxa5sqxbbb/CheatEngine65.exe
 * Cheat Engine Server Linux (6.5): https://www.cheatengine.org/download/ceserver_linux_x86_64.zip
 * Ghidra Reverse Tool: https://ghidra-sre.org
