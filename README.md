@@ -1,8 +1,8 @@
 # Offset CSGO Linux Version 1.37.0.8
 
 | Name | Base | Offset | Type |
-| :-: | :-: | :-: | :-: | :-: |
-| LocalPlayer| client_panorama_client.so+0x214BF10 | 0x0 | Class |
+| :-: | :-: | :-: | :-: |
+| LocalPlayer | client_panorama_client.so+0x214BF10 | 0x0 | Class |
 | Health | client_panorama_client.so+0x214BF10 | 0x138 | Int32 |
 | Money | client_panorama_client.so+0x214BF10 | 0xBC64 | Int32 |
 | Team | client_panorama_client.so+0x214BF10 | 0x12C | Int32 |
